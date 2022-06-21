@@ -1,7 +1,6 @@
 
 
 # music-player
-## (https://amangupta262.github.io/music-player/)
 
 - A music player user interface created using **HTML and CSS only**.
 
